@@ -50,6 +50,14 @@ body {
     padding-bottom: 0.5em;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #36C9D1;
+}
+
 #container {
     width: 100%;
 }
